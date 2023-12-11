@@ -1,0 +1,22 @@
+http://eyou46.dothome.co.kr/myadmin
+
+    아이디: eyou46
+    비밀번호: dkfus46#
+
+테이블: rankingdak_user_table
+테이블: rankingdak_admin_table
+
+
+[유저 참조]
+아이디: soso12
+비밀번호: sososo12#
+이름: 이소정
+이메일: soso@naver.com
+휴대폰: 01056567878
+
+[관리자 참조]
+아이디: test1234
+비밀번호: @test1234
+이름: 테스트
+이메일: test1234@naver.com
+휴대폰: 01012345678
